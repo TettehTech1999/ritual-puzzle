@@ -1,0 +1,1 @@
+Static Ritual 8x8 puzzle. Deploy: push to GitHub and import on Vercel, or use 'vercel' CLI.
